@@ -18,8 +18,7 @@
 ## Key script behavior:
 ### GameController
 *	The only controller script with update loop in the ‘OrbRun’ scene.
-*	Master controller of the following entities: 
-*	camera, sound controller, UI Manager, trail system, explosion simulator, collectibles
+*	Master controller of the following entities: camera, sound controller, UI Manager, trail system, explosion simulator, collectibles
 *	Responsible for processing user inputs.
 *	Controls all the main events taking place in the game.
 *	Controls the projectile gun.
